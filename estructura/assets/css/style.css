@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+.h1-plus {
+    font-size: 60px;
+}
+
+#principal {
+    color: blue;
+    font-family: 'Mi fuente';
+}
+
+p {
+    font-size: 35px;
+}
+
+@font-face {
+    font-family: 'Mi fuente';
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+}
+
+#icon-facebook {
+    color: blue;
+    font-size: x-large;
+}
