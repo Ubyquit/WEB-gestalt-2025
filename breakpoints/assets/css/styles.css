@@ -1,0 +1,4 @@
+.color-nuevo{
+    background-color: var(--bs-indigo-400);
+    color: var(--bs-orange-600)
+}
