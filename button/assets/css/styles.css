@@ -1,9 +1,10 @@
 .color-nuevo{
     background-color: var(--bs-indigo-400);
-    color: var(--bs-orange-600)
+    color: var(--bs-orange-600);
+    border-width: 5px;
 }
 
-.morado {
+.morado:hover {
     background-color: var(--bs-purple-800);
     color: #198754
 }
